@@ -16,6 +16,6 @@ I completed my BCA (Bachelor of Computer Applications) Graduation from Solapur U
 ![](https://github-profile-trophy.vercel.app/?username=ChaddeKiran&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChaddeKiran&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChaddeKiran&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
