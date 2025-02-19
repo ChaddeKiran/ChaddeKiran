@@ -3,9 +3,13 @@ Hi there! 👋 I'm a passionate DevOps Engineer & Software Developer who loves c
 
 🚀 Passionate About:
 🔸 Cloud-native solutions, containerization, and infrastructure automation.
+
 🔸 Building fault-tolerant, distributed systems that scale efficiently.
+
 🔸 Enhancing developer productivity through DevOps best practices.
+
 🔸 Exploring ML integration in DevOps workflows and automation.
+
 
 💡 Let’s Connect! Always open to collaborations, knowledge sharing, and exciting DevOps challenges. Check out my repositories for real-world implementations of cloud deployments, microservices, and full-stack applications.
 
