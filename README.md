@@ -2,6 +2,7 @@
 Hi there! 👋 I'm a passionate DevOps Engineer & Software Developer who loves crafting scalable, high-performance applications and automating workflows to streamline development and deployment. With hands-on experience in Cloud Computing (AWS, Kubernetes, Docker, Terraform), CI/CD Pipelines, Backend Development (Python, Django, Java, Spring Boot), and Database Management, I thrive at the intersection of development and operations.
 
 🚀 Passionate About:
+
 🔸 Cloud-native solutions, containerization, and infrastructure automation.
 
 🔸 Building fault-tolerant, distributed systems that scale efficiently.
