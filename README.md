@@ -1,5 +1,15 @@
 # 💫 About Me:
-I completed my BCA (Bachelor of Computer Applications) Graduation from Solapur University in 2023 with a 9.19 CGPA. Currently, I am actively engaged in a DevOps Certification course at 3RI in Pune. improving collaboration and communication between software development and IT operations. This pursuit is a significant step towards advancing my skills and knowledge in the domains of computer applications and DevOps. I am eager to apply and expand this expertise in a professional setting.
+Hi there! 👋 I'm a passionate DevOps Engineer & Software Developer who loves crafting scalable, high-performance applications and automating workflows to streamline development and deployment. With hands-on experience in Cloud Computing (AWS, Kubernetes, Docker, Terraform), CI/CD Pipelines, Backend Development (Python, Django, Java, Spring Boot), and Database Management, I thrive at the intersection of development and operations.
+
+🚀 Passionate About:
+🔸 Cloud-native solutions, containerization, and infrastructure automation.
+🔸 Building fault-tolerant, distributed systems that scale efficiently.
+🔸 Enhancing developer productivity through DevOps best practices.
+🔸 Exploring ML integration in DevOps workflows and automation.
+
+💡 Let’s Connect! Always open to collaborations, knowledge sharing, and exciting DevOps challenges. Check out my repositories for real-world implementations of cloud deployments, microservices, and full-stack applications.
+
+🌍 Let's build the future of scalable, automated, and secure applications together! 🚀
 
 
 ## 🌐 Socials:
